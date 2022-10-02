@@ -1,2 +1,3 @@
 This is my first repository (place) where I am going to create my first file whithin repository 
 this is the first change that I made 
+and this is the second change that I made
